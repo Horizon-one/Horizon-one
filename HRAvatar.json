@@ -3,14 +3,9 @@
     {
       "ip": "103.30.126.146",
       "License": "HR_1158278464479166605",
-      "ResourceName": "HrAvatar",
+      "ResourceName": "HRAvatar",
       "Version": "1.0.0"
     },
-    {
-      "ip": "223.204.218.49",
-      "License": "HR_1158278464479166605",
-      "ResourceName": "Horizon.Chats",
-      "Version": "1.0.0"
-    },
+
   ]
 }
