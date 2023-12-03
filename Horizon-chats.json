@@ -7,14 +7,20 @@
       "Version": "1.0.0"
     },
     {
-      "ip": "223.204.218.49",
-      "License": "HR_1158278464479166605",
+      "ip": "49.231.43.231",
+      "License": "HR_1128578209282265209",
       "ResourceName": "Horizon.Chats",
       "Version": "1.0.0"
     },
     {
-      "ip": "49.231.43.231",
-      "License": "HR_1128578209282265209",
+      "ip": "45.144.166.254",
+      "License": "HR_779304532273266699",
+      "ResourceName": "Horizon.Chats",
+      "Version": "1.0.0"
+    },
+    {
+      "ip": "45.144.166.254",
+      "License": "HR_779304532273266699",
       "ResourceName": "Horizon.Chats",
       "Version": "1.0.0"
     }
