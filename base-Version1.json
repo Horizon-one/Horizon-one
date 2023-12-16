@@ -1,8 +1,9 @@
 {
-  "Zime": [
+  "One": [
     {
-      "ip": "localhost",
-      "License": "HR_717059321510363166",
+      "ip": "103.30.126.146",
+      "License": "HR_1158278464479166605",
+      "ResourceName": "es_extended",
       "Version": "1.0.0"
     }
   ]
